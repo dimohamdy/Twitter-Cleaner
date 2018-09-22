@@ -16,6 +16,9 @@ The example uses environment variables to configure the consumer key and
 consumer secret needed to access Twitter's API.  Start the server with those
 variables set to the appropriate credentials.
 
+you should create twitter App and use the “Consumer Key” and “Consumer Secret”  check [link](https://codeboxr.com/how-to-create-twitter-app/)
+
+
 ```bash
 $ CONSUMER_KEY=__TWITTER_CONSUMER_KEY__ CONSUMER_SECRET=__TWITTER_CONSUMER_SECRET__ node server.js
 ```
