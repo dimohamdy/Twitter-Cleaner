@@ -1,4 +1,4 @@
-# TwitterRemove
+# Twitter Cleaner
 
 
 ## Instructions
