@@ -48,12 +48,12 @@ function runForUsers(followesIds) {
       if (lastTweetFromNumberOfDay > 60) {
         // unfollow this user
         console.log(`unfollow ${lastTweet.user.screen_name} last tweet from ${lastTweetFromNumberOfDay} day`);
-        //unfollow(userId, function() {
-        unFollowerUsersIds.push(userId)
-        //get next
-        runForUsers(followesIds);
+        unfollow(userId, function() {
+          unFollowerUsersIds.push(userId)
+          //get next
+          runForUsers(followesIds);
 
-        // });
+        });
       } else {
         runForUsers(followesIds);
       }
