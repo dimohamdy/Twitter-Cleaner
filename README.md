@@ -22,3 +22,11 @@ $ CONSUMER_KEY=__TWITTER_CONSUMER_KEY__ CONSUMER_SECRET=__TWITTER_CONSUMER_SECRE
 
 Open a web browser and navigate to [http://127.0.0.1:3000/](http://127.0.0.1:3000/)
 to see the example in action.
+
+
+
+
+![](https://raw.githubusercontent.com/dimohamdy/Twitter-Cleaner/master/Images/1.png)
+
+
+![](https://raw.githubusercontent.com/dimohamdy/Twitter-Cleaner/master/Images/2.png)
