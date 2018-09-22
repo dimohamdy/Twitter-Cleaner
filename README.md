@@ -7,7 +7,7 @@ To install this example on your computer, clone the repository and install
 dependencies.
 
 ```bash
-$ git clone git@github.com:dimohamdy/Twitter-Cleaner.git.git
+$ git clone git@github.com:dimohamdy/Twitter-Cleaner.git
 $ cd TwitterRemove
 $ npm install
 ```
